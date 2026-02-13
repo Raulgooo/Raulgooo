@@ -19,13 +19,3 @@ I am just a regular guy trying to solve problems with code while having fun with
 [![](https://visitcount.itsvg.in/api?id=raulgooo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-*CS Student @ UANL (2nd Semester) | IT Administrator @ Quintero Castillo y Asociados*
-
-- Email: raulgooo@outlook.com
-- Location: Monterrey, Mexico (Open to Remote)
-
----
-
-*Currently in 2nd semester of Computer Science at UANL 
