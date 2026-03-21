@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Raúl, I am an 18 year old CS Student @ UANL FCFM but what really defines me is that I love to build. <br>I am always looking for new projects and technologies to put my hands on.<br>I like tampering and developing: AI tools, Dev tools, full-stack web apps, system utilities, low-level toy projects, and sometimes reverse engineer stuff.<br>I like to say I am stack agnostic but my favorite and most used tools are Python, Golang, Typescript and C. Never really digged into C++
+Hello, my name is Raúl, I am a CS Student @ UANL FCFM but what really defines me is that I love to build. <br>I am always looking for new projects and technologies to put my hands on.<br>I like tampering and developing: AI tools, Dev tools, full-stack web apps, system utilities, low-level toy projects, and sometimes reverse engineer stuff.<br>I like to say I am stack agnostic but my favorite and most used tools are Python, Golang, Typescript and C. Never really digged into C++
  <br><br>
 cv: https://1drv.ms/b/c/37d6db26daf6fab3/IQDafNMMB24ASIGpM_S9DQTYAQCG8eOeLg5uxoig0-gJ3ko?e=kifd8i
 
