@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, my name is Raúl, I am a CS Student @ UANL FCFM but what really defines me is that I love to build. <br>I am always looking for new projects and technologies to put my hands on.<br>I like tampering and developing: AI tools, Dev tools, full-stack web apps, system utilities, low-level toy projects, and sometimes reverse engineer stuff.<br>I like to say I am stack agnostic but my favorite and most used tools are Python, Golang, Typescript and C. Never really digged into C++
  <br><br>
-cv: https://1drv.ms/b/c/37d6db26daf6fab3/IQDafNMMB24ASIGpM_S9DQTYAQCG8eOeLg5uxoig0-gJ3ko?e=kifd8i
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raúl-r-gonzález-a39a03347) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raulgooo@outlook.com) 
