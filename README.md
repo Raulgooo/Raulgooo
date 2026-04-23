@@ -2,7 +2,7 @@
 
 # Hi, I'm Raúl 👋
  
-📍 Monterrey, MX | 🔧 Builder first, student second | Founder @ SharkAuth
+📍 Monterrey, MX | 🔧 All Around Builder | Founder @ SharkAuth
  
 `Go` `Python` `TypeScript` `C`
  
@@ -12,7 +12,7 @@
  
 ## Current Projects
  
-🦈 **[SharkAuth](https://sharkauth.com)** – Self-hosted auth in a single Go binary. SQLite/Postgres, JWT, OAuth2, embedded dashboard.  The anti-every-other-auth-service.
+🦈 **[SharkAuth](https://sharkauth.com)** – Self-hosted auth for the Agentic Era in a single 39 MB Go binary. SQLite, Sessions, JWT, OAuth 2.1, Dpop, Delegation chains, No code Proxy auth integration, autonomous agent identification, Short-lived token vault, shipped with an embedded dashboard and a CLI replicating it. 
  
 👻 **[Godshell](https://github.com/raulgooo/godshell)** – eBPF-powered kernel observability with LLM forensics. Ghost process tracking, fileless malware detection, heap scanning. Go + Bubbletea TUI.
  
