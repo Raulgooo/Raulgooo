@@ -6,7 +6,7 @@
  
 `Go` `Python` `TypeScript` `C`
  
-18 y/o CS student at FCFM UANL shipping stuff between classes. I learn by building. If it's new tech, I'm probably hacking on it.
+Founder @ SharkAuth & CS Student
  
 ---
  
@@ -23,7 +23,7 @@
  
 ## Community
  
-🏗️ **[BuildersMTY](https://buildersmty.com.mx)** – Nonprofit tech community concentrating top software talent in Monterrey. GitHub-scanning Discord onboarding pipeline that assigns tiered roles based on real OSS activity. Still tryna keep it alive!
+🏗️ **[BuildersMTY](https://buildersmty.com.mx)** – Nonprofit tech community concentrating top software talent in Monterrey. GitHub-scanning Discord onboarding pipeline that assigns tiered roles based on real OSS activity. Still tryna keep it alive! (Still building it)
  
  
 ---
@@ -48,7 +48,7 @@ I don't wait for permission or perfect conditions. Ship the thing, get users, it
 ## Random Facts
  
 - I ball
-- Unethical ethical hacker sometimes.
+- ethical hacker sometimes.
 - I make beats as a hobby.
  
 ---
