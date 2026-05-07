@@ -23,7 +23,7 @@ Founder @ SharkAuth & CS Student
  
 ## Community
  
-🏗️ **[BuildersMTY](https://buildersmty.com.mx)** – Nonprofit tech community concentrating top software talent in Monterrey. GitHub-scanning Discord onboarding pipeline that assigns tiered roles based on real OSS activity. Still tryna keep it alive! (Still building it)
+🏗️ **[BuildersMTY](https://buildersmty.com.mx)** – Nonprofit tech community concentrating top software talent in Monterrey. GitHub-scanning Discord onboarding pipeline that assigns tiered roles based on real OSS activity. Still tryna keep it alive! (Still building it, not live yet)
  
  
 ---
@@ -39,9 +39,8 @@ Founder @ SharkAuth & CS Student
  
 ## Philosophy
  
-> "Build, don't talk about building."
+> "YOLO"
  
-I don't wait for permission or perfect conditions. Ship the thing, get users, iterate. I see my classmates waiting for something all the time. That's why I built BuildersMTY.
  
 ---
  
