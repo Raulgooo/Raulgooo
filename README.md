@@ -6,7 +6,7 @@
  
 `Go` `Python` `TypeScript` `C`
  
-Founder @ SharkAuth & CS Student
+CS Student @ UANL & AI Engineering intern @ nexaminds ai
  
 ---
  
